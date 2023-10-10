@@ -27,7 +27,9 @@ Other deep learning methods: Using other deep learning methods with high accurac
 **Developed User Interface**
 We've designed an intuitive user interface using Streamlit, allowing users to effortlessly upload an image. Once uploaded, the system performs an instantaneous analysis on the image, promptly delivering a conclusive output indicating whether the depicted activity is 'walk' or 'run'.
 Here's a look of the frontend:
+
 ![image](https://github.com/pradhanmona7/Walk_Run_Image_Prediction/assets/114325852/86bf219d-0b39-49cd-a7f9-a707a94f7008)
+
 ![image](https://github.com/pradhanmona7/Walk_Run_Image_Prediction/assets/114325852/fae9ea89-5968-4c89-8100-f00e7cbb1042)
 
 
